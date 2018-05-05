@@ -1,0 +1,16 @@
+PODS:
+  - TensorFlow-experimental (1.1.1)
+
+DEPENDENCIES:
+  - TensorFlow-experimental
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - TensorFlow-experimental
+
+SPEC CHECKSUMS:
+  TensorFlow-experimental: c38ed2a43acaa2d42ce4174ac076efaa76e26a12
+
+PODFILE CHECKSUM: 50075ceb859df8162bd22a78d48591281cbd1fa9
+
+COCOAPODS: 1.5.0
