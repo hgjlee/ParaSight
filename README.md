@@ -4,7 +4,7 @@ We used the power of transfer learning to classify parasites, which are hard to 
 
 ![image](https://raw.githubusercontent.com/hyunjacoblee/ParaSight/master/toxocara.png)
 ![image](https://raw.githubusercontent.com/hyunjacoblee/ParaSight/master/capillaria.png)
-![image](https://raw.githubusercontent.com/hyunjacoblee/ParaSight/master/trichuris.png)
+![image](https://raw.githubusercontent.com/hyunjacoblee/ParaSight/master/trichuris.png =250x250)
 
 ## Data
 * We created our own dataset by scraping images from Google and manually making adjustments to them.
