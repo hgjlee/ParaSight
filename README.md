@@ -2,9 +2,7 @@
 
 We used the power of transfer learning to classify parasites, which are hard to distinguish visually, to help the veterinarian. We submitted the project at the [Cornell Animal Health Hackathon](https://animalhealthhackathon2018.splashthat.com/).
 
-Toxocara             |  Capillaria          |  Trichuris 
-:-------------------------:|:-------------------------: |
-![image](https://raw.githubusercontent.com/hyunjacoblee/ParaSight/master/toxocara.png) |  ![image](https://raw.githubusercontent.com/hyunjacoblee/ParaSight/master/capillaria.png) | ![image](https://raw.githubusercontent.com/hyunjacoblee/ParaSight/master/trichuris.png)
+![image](https://raw.githubusercontent.com/hyunjacoblee/ParaSight/master/capillaria.png) | ![image](https://raw.githubusercontent.com/hyunjacoblee/ParaSight/master/trichuris.png)
 
 
 ## Data
